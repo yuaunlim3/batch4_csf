@@ -1,6 +1,0 @@
-TODO Task 1
-
-Write the command to import products.csv into Mongo in this file
-
-
-mongoimport --db=practice_CSF --collection=products --type=csv --headerline --file=products.csv
